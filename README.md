@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pauline Oliveira
 - 👀 I’m interested in Javascript and React
 - 🌱 I’m currently learning Typescript and Angular 
-- 📝 studying is also a hobby and I'm always looking for new assertive solutions
+- 📝 Studying is also a hobby and I'm always looking for new assertive solutions
 <br>
 
 <!---
@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 <img width="200px" height="150px" src="https://miro.medium.com/max/960/1*ulD6na_hQsXA5uC0acoteA.png"/>
 </br><hr>
 
-<p>Nas horas vagas curto muito conteúdos do universo sci-fi 🤖 e de escrever sobre vários assuntos bacanas, inclusive, sobre tecnologia em geral. Você pode conferir no meu <a href="https://paulineoliveira.medium.com/">Medium</a>!
+<p>Nas horas vagas curto muito conteúdos do universo sci-fi 🤖 e de escrever sobre vários assuntos bacanas, inclusive, tecnologia em geral. Você pode conferir um pouco mais destes conteúdos no meu <a href="https://paulineoliveira.medium.com/">Medium</a>!
