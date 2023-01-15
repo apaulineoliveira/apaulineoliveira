@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pauline-oliveira-220584200/) 
 
 <br>
-<img width="500px" height="290px" src="https://miro.medium.com/max/960/1*ulD6na_hQsXA5uC0acoteA.png"/>
+<img width="450px" height="290px" src="https://miro.medium.com/max/960/1*ulD6na_hQsXA5uC0acoteA.png"/>
 </br><hr>
 
 <p>On the side, I enjoy a lot of content from the sci-fi universe 🤖 and writing about various legal subjects, including technology in general. You can check out a little more of this content on my Medium.</p>  
