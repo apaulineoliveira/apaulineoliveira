@@ -9,8 +9,7 @@ apaulineoliveira/apaulineoliveira is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pauline-oliveira-220584200/) 
-
+<br></br>
 <p>On the side, I enjoy a lot of content from the sci-fi universe 🤖 and writing about lot of interesting subjects, including technology in general. You can check out a little more of this content on my <a href="https://paulineoliveira.medium.com/">Medium</a>.<br></p>  
 
-<p>Nas horas vagas curto muito conteúdos do universo sci-fi 🤖 e de escrever sobre vários assuntos bacanas, inclusive, tecnologia em geral. Você pode conferir um pouco mais destes conteúdos no meu <a href="https://paulineoliveira.medium.com/">Medium</a>.<br>
 
