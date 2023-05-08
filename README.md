@@ -11,6 +11,6 @@
 apaulineoliveira/apaulineoliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center">On the side, I enjoy a lot of content from the sci-fi universe 🤖 and writing about lot of interesting subjects, including technology in general.<br>You can check out a little more of this content on my Medium.</p>  
+<p align="center">On the side, I enjoy a lot of content from the sci-fi - 🤖 universe and writing about lot of interesting subjects, including technology in general.<br><br>You can check out a little more of this content on my Medium.</p>  
 
 
