@@ -3,7 +3,7 @@
 
 - 🙋🏽‍♀️ Hi, I’m Pauline Oliveira
 - 👩🏽‍💻 I’m interested in Javascript and React
-- 🌱 I’m currently learning Typescript and Angular 
+- 🌱 I’m currently learning Typescript and Vue.js 
 - 📒 Studying is also a hobby and I'm always looking for new assertive solutions
 <br>
 
