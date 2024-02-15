@@ -1,10 +1,10 @@
 <h1 align ="center">About</h1>
 
 
-- 🙋🏽‍♀️ Hi, I’m Pauline Oliveira
-- 👩🏽‍💻 I’m interested in Javascript and Vue.js
-- 🌱 I’m currently learning Typescript and React 
-- 📒 Studying is also a hobby and I'm always looking for new assertive solutions
+ 🙋🏽‍♀️ Hi, I’m Pauline Oliveira
+ 👩🏽‍💻 I’m interested in Javascript and Vue.js
+ 🌱 I’m currently learning Typescript and React 
+ 📒 Studying is also a hobby and I'm always looking for new assertive solutions
 <br>
 
 <!---
