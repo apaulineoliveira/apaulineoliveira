@@ -3,7 +3,7 @@
 
  - 🙋🏽‍♀️ Hi, I’m Pauline Oliveira
  - 👩🏽‍💻 I’m interested in Typescript and Vue.js
--  🌱 I’m currently learning Nuxt and React 
+-  🌱 I’m currently learning Next and React 
 -  📒 Studying is also a hobby and I'm always looking for new assertive solutions
 <br>
 
