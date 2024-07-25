@@ -3,7 +3,7 @@
 
 <p>🙋🏽‍♀️ Hi, I’m Pauline Oliveira</p> 
 <p>👩🏽‍💻 I’m interested in Typescript and Vue.js</p>
-<p>🌱 I’m currently learning about TDD, DDD and and clean architecture </p>
+<p>🌱 I’m currently learning about TDD, DDD and clean architecture </p>
 
 <br>
 
