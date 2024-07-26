@@ -1,4 +1,4 @@
-<h1 align ="center">About</h1>
+
 
 
 <p>🙋🏽‍♀️ Hi, I’m Pauline Oliveira</p> 
